@@ -1,0 +1,8 @@
+{
+  "schemaVersion": 1,
+  "id": "rick-and-morty",
+  "name": "Rick and Morty",
+  "description": "Portal green on dark space with Rick and Morty art",
+  "version": "1.0.0",
+  "light": false
+}
